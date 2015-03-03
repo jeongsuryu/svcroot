@@ -6,3 +6,6 @@ main() {
 void func1() {
 	printf("func 1");
 }
+void func2() {
+	printf("func 1");
+}
